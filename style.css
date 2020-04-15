@@ -1,0 +1,45 @@
+header{
+  width:1000px;
+  height:350px;
+  background-image:url("https://raw.githubusercontent.com/green-fox-academy/stayathome-syllabus/master/week01/assets/first-website-header.png");
+  margin-left:auto;
+  margin-right:auto;
+  background-size:100%;
+  background-repeat:no-repeat;
+  text-align:center;
+}
+.headeregy{
+  position:relative;
+  top:190px;
+  right:160px;
+}
+.headerketto{
+  font-size:60px;
+  position:absolute;
+  top:210px;
+  right:1060px;
+}
+.mainbox{
+  width:800px;
+  margin-right:auto;
+  margin-left:auto
+}
+h2,h3{
+ font-family: 'Baloo Paaji 2', cursive;
+ color:#222222;
+ font-weight: bold;
+}
+h3{
+  margin:0 0 0 0;
+}
+h4{
+  font-family: 'Baloo Paaji 2', cursive;
+  font-size:15px;
+  font-style:italic;
+  font-weight: bold;
+  margin:0 0 0 0;
+}
+p{
+  font-family: 'Baloo Paaji 2', cursive;
+  color:#222222
+}
